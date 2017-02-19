@@ -50,7 +50,6 @@ int main () {
     cout << "Hasil Sisa Pembagian C dan D adalah " << bagi2 (c, d) <<endl << endl;
     
     //RELASIONAL
-    
     cout << "********************Hasil Relasional********************" << endl << endl;
     
     //Jika Nilai C Sama dengan D (==)
