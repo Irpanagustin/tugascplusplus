@@ -47,7 +47,7 @@ int main () {
     cout << "Hasil Pembagian C dan D adalah " << bagi1 (c, d) <<endl;
 
     //Pembagian (Modulus/Mod) Dengan Sisa Pembagian
-    cout << "Hasil Sisa Pembagian C dan D adalah " << bagi2 (C, D) <<endl << endl;
+    cout << "Hasil Sisa Pembagian C dan D adalah " << bagi2 (c, d) <<endl << endl;
     
     //RELASIONAL
     
