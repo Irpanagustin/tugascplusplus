@@ -4,7 +4,7 @@
 	// I.S Program mencari ukuran data
 	
 	// F.S Menampilkan Program hitung luas jari jari
-	namespace std;
+	using namespace std;
 	
 	int main() { // Jalan kan function main
 	float jari_jari, luas; // buat variable dengan type float
